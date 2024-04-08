@@ -1,0 +1,374 @@
+Network name: i2c
+Iteration 0, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter0_cmd0.aig, size = 1279, depth = 16
+Iteration 0, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter0_cmd1.aig, size = 1233, depth = 16
+Iteration 0, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter0_cmd2.aig, size = 1216, depth = 16
+Iteration 0, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter0_cmd3.aig, size = 1207, depth = 16
+Iteration 0, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter0_cmd4.aig, size = 1204, depth = 16
+Iteration 0, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter0_cmd5.aig, size = 1197, depth = 16
+Iteration 0, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter0_cmd6.aig, size = 1197, depth = 16
+Iteration 0, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter0_cmd7.aig, size = 1186, depth = 16
+Iteration 0, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter0_cmd8.aig, size = 1179, depth = 16
+Iteration 0, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter0_cmd9.aig, size = 1167, depth = 16
+Iteration 0, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter0_cmd10.aig, size = 1152, depth = 17
+Iteration 0, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter0_cmd11.aig, size = 1115, depth = 17
+Iteration 0, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter0_cmd12.aig, size = 1113, depth = 16
+Iteration 0, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter0_cmd13.aig, size = 1099, depth = 16
+Iteration 0, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter0_cmd14.aig, size = 1092, depth = 17
+Iteration 0, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter0_cmd15.aig, size = 1078, depth = 17
+Iteration 0, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter0_cmd16.aig, size = 1072, depth = 18
+Iteration 0, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter0_cmd17.aig, size = 1069, depth = 15
+Iteration 1, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter1_cmd0.aig, size = 1069, depth = 15
+Iteration 1, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter1_cmd1.aig, size = 1068, depth = 15
+Iteration 1, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter1_cmd2.aig, size = 1067, depth = 15
+Iteration 1, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter1_cmd3.aig, size = 1067, depth = 15
+Iteration 1, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter1_cmd4.aig, size = 1066, depth = 15
+Iteration 1, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter1_cmd5.aig, size = 1064, depth = 15
+Iteration 1, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter1_cmd6.aig, size = 1064, depth = 15
+Iteration 1, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter1_cmd7.aig, size = 1062, depth = 15
+Iteration 1, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter1_cmd8.aig, size = 1062, depth = 15
+Iteration 1, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter1_cmd9.aig, size = 1058, depth = 15
+Iteration 1, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter1_cmd10.aig, size = 1055, depth = 16
+Iteration 1, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter1_cmd11.aig, size = 1052, depth = 16
+Iteration 1, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter1_cmd12.aig, size = 1052, depth = 15
+Iteration 1, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter1_cmd13.aig, size = 1049, depth = 16
+Iteration 1, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter1_cmd14.aig, size = 1049, depth = 17
+Iteration 1, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter1_cmd15.aig, size = 1046, depth = 17
+Iteration 1, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter1_cmd16.aig, size = 1042, depth = 17
+Iteration 1, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter1_cmd17.aig, size = 1042, depth = 16
+Iteration 2, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter2_cmd0.aig, size = 1042, depth = 16
+Iteration 2, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter2_cmd1.aig, size = 1041, depth = 16
+Iteration 2, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter2_cmd2.aig, size = 1039, depth = 16
+Iteration 2, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter2_cmd3.aig, size = 1038, depth = 16
+Iteration 2, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter2_cmd4.aig, size = 1038, depth = 16
+Iteration 2, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter2_cmd5.aig, size = 1038, depth = 16
+Iteration 2, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter2_cmd6.aig, size = 1038, depth = 16
+Iteration 2, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter2_cmd7.aig, size = 1038, depth = 16
+Iteration 2, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter2_cmd8.aig, size = 1038, depth = 16
+Iteration 2, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter2_cmd9.aig, size = 1038, depth = 16
+Iteration 2, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter2_cmd10.aig, size = 1035, depth = 19
+Iteration 2, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter2_cmd11.aig, size = 1033, depth = 19
+Iteration 2, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter2_cmd12.aig, size = 1033, depth = 18
+Iteration 2, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter2_cmd13.aig, size = 1033, depth = 18
+Iteration 2, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter2_cmd14.aig, size = 1033, depth = 19
+Iteration 2, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter2_cmd15.aig, size = 1031, depth = 19
+Iteration 2, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter2_cmd16.aig, size = 1030, depth = 20
+Iteration 2, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter2_cmd17.aig, size = 1030, depth = 19
+Iteration 3, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter3_cmd0.aig, size = 1030, depth = 19
+Iteration 3, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter3_cmd1.aig, size = 1030, depth = 19
+Iteration 3, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter3_cmd2.aig, size = 1029, depth = 19
+Iteration 3, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter3_cmd3.aig, size = 1029, depth = 19
+Iteration 3, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter3_cmd4.aig, size = 1029, depth = 19
+Iteration 3, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter3_cmd5.aig, size = 1029, depth = 19
+Iteration 3, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter3_cmd6.aig, size = 1029, depth = 19
+Iteration 3, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter3_cmd7.aig, size = 1029, depth = 19
+Iteration 3, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter3_cmd8.aig, size = 1029, depth = 19
+Iteration 3, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter3_cmd9.aig, size = 1029, depth = 19
+Iteration 3, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter3_cmd10.aig, size = 1029, depth = 19
+Iteration 3, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter3_cmd11.aig, size = 1028, depth = 19
+Iteration 3, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter3_cmd12.aig, size = 1028, depth = 18
+Iteration 3, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter3_cmd13.aig, size = 1028, depth = 18
+Iteration 3, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter3_cmd14.aig, size = 1028, depth = 19
+Iteration 3, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter3_cmd15.aig, size = 1028, depth = 19
+Iteration 3, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter3_cmd16.aig, size = 1026, depth = 20
+Iteration 3, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter3_cmd17.aig, size = 1026, depth = 19
+Iteration 4, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter4_cmd0.aig, size = 1026, depth = 19
+Iteration 4, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter4_cmd1.aig, size = 1026, depth = 19
+Iteration 4, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter4_cmd2.aig, size = 1026, depth = 19
+Iteration 4, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter4_cmd3.aig, size = 1026, depth = 19
+Iteration 4, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter4_cmd4.aig, size = 1026, depth = 19
+Iteration 4, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter4_cmd5.aig, size = 1026, depth = 19
+Iteration 4, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter4_cmd6.aig, size = 1026, depth = 19
+Iteration 4, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter4_cmd7.aig, size = 1026, depth = 19
+Iteration 4, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter4_cmd8.aig, size = 1026, depth = 19
+Iteration 4, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter4_cmd9.aig, size = 1026, depth = 19
+Iteration 4, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter4_cmd10.aig, size = 1026, depth = 19
+Iteration 4, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter4_cmd11.aig, size = 1024, depth = 19
+Iteration 4, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter4_cmd12.aig, size = 1024, depth = 18
+Iteration 4, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter4_cmd13.aig, size = 1024, depth = 18
+Iteration 4, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter4_cmd14.aig, size = 1024, depth = 19
+Iteration 4, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter4_cmd15.aig, size = 1024, depth = 19
+Iteration 4, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter4_cmd16.aig, size = 1024, depth = 20
+Iteration 4, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter4_cmd17.aig, size = 1024, depth = 19
+Iteration 5, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter5_cmd0.aig, size = 1024, depth = 19
+Iteration 5, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter5_cmd1.aig, size = 1024, depth = 19
+Iteration 5, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter5_cmd2.aig, size = 1023, depth = 19
+Iteration 5, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter5_cmd3.aig, size = 1023, depth = 19
+Iteration 5, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter5_cmd4.aig, size = 1023, depth = 19
+Iteration 5, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter5_cmd5.aig, size = 1023, depth = 19
+Iteration 5, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter5_cmd6.aig, size = 1023, depth = 19
+Iteration 5, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter5_cmd7.aig, size = 1022, depth = 19
+Iteration 5, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter5_cmd8.aig, size = 1022, depth = 19
+Iteration 5, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter5_cmd9.aig, size = 1022, depth = 19
+Iteration 5, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter5_cmd10.aig, size = 1022, depth = 19
+Iteration 5, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter5_cmd11.aig, size = 1022, depth = 19
+Iteration 5, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter5_cmd12.aig, size = 1022, depth = 18
+Iteration 5, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter5_cmd13.aig, size = 1022, depth = 18
+Iteration 5, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter5_cmd14.aig, size = 1022, depth = 19
+Iteration 5, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter5_cmd15.aig, size = 1021, depth = 19
+Iteration 5, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter5_cmd16.aig, size = 1020, depth = 20
+Iteration 5, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter5_cmd17.aig, size = 1020, depth = 19
+Iteration 6, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter6_cmd0.aig, size = 1020, depth = 19
+Iteration 6, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter6_cmd1.aig, size = 1020, depth = 19
+Iteration 6, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter6_cmd2.aig, size = 1020, depth = 19
+Iteration 6, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter6_cmd3.aig, size = 1020, depth = 19
+Iteration 6, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter6_cmd4.aig, size = 1020, depth = 19
+Iteration 6, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter6_cmd5.aig, size = 1019, depth = 19
+Iteration 6, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter6_cmd6.aig, size = 1019, depth = 19
+Iteration 6, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter6_cmd7.aig, size = 1019, depth = 19
+Iteration 6, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter6_cmd8.aig, size = 1019, depth = 19
+Iteration 6, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter6_cmd9.aig, size = 1019, depth = 19
+Iteration 6, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter6_cmd10.aig, size = 1019, depth = 19
+Iteration 6, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter6_cmd11.aig, size = 1019, depth = 19
+Iteration 6, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter6_cmd12.aig, size = 1019, depth = 18
+Iteration 6, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter6_cmd13.aig, size = 1018, depth = 18
+Iteration 6, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter6_cmd14.aig, size = 1017, depth = 19
+Iteration 6, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter6_cmd15.aig, size = 1017, depth = 19
+Iteration 6, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter6_cmd16.aig, size = 1016, depth = 20
+Iteration 6, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter6_cmd17.aig, size = 1016, depth = 19
+Iteration 7, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter7_cmd0.aig, size = 1016, depth = 19
+Iteration 7, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter7_cmd1.aig, size = 1016, depth = 19
+Iteration 7, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter7_cmd2.aig, size = 1016, depth = 19
+Iteration 7, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter7_cmd3.aig, size = 1016, depth = 19
+Iteration 7, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter7_cmd4.aig, size = 1016, depth = 19
+Iteration 7, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter7_cmd5.aig, size = 1016, depth = 19
+Iteration 7, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter7_cmd6.aig, size = 1016, depth = 19
+Iteration 7, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter7_cmd7.aig, size = 1016, depth = 19
+Iteration 7, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter7_cmd8.aig, size = 1016, depth = 19
+Iteration 7, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter7_cmd9.aig, size = 1016, depth = 19
+Iteration 7, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter7_cmd10.aig, size = 1016, depth = 19
+Iteration 7, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter7_cmd11.aig, size = 1016, depth = 19
+Iteration 7, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter7_cmd12.aig, size = 1016, depth = 18
+Iteration 7, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter7_cmd13.aig, size = 1016, depth = 18
+Iteration 7, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter7_cmd14.aig, size = 1016, depth = 19
+Iteration 7, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter7_cmd15.aig, size = 1016, depth = 19
+Iteration 7, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter7_cmd16.aig, size = 1016, depth = 20
+Iteration 7, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter7_cmd17.aig, size = 1016, depth = 19
+Iteration 8, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter8_cmd0.aig, size = 1016, depth = 19
+Iteration 8, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter8_cmd1.aig, size = 1016, depth = 19
+Iteration 8, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter8_cmd2.aig, size = 1016, depth = 19
+Iteration 8, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter8_cmd3.aig, size = 1016, depth = 19
+Iteration 8, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter8_cmd4.aig, size = 1016, depth = 19
+Iteration 8, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter8_cmd5.aig, size = 1016, depth = 19
+Iteration 8, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter8_cmd6.aig, size = 1016, depth = 19
+Iteration 8, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter8_cmd7.aig, size = 1016, depth = 19
+Iteration 8, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter8_cmd8.aig, size = 1016, depth = 19
+Iteration 8, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter8_cmd9.aig, size = 1016, depth = 19
+Iteration 8, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter8_cmd10.aig, size = 1016, depth = 19
+Iteration 8, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter8_cmd11.aig, size = 1016, depth = 19
+Iteration 8, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter8_cmd12.aig, size = 1016, depth = 18
+Iteration 8, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter8_cmd13.aig, size = 1016, depth = 18
+Iteration 8, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter8_cmd14.aig, size = 1016, depth = 19
+Iteration 8, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter8_cmd15.aig, size = 1016, depth = 19
+Iteration 8, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter8_cmd16.aig, size = 1016, depth = 20
+Iteration 8, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter8_cmd17.aig, size = 1016, depth = 19
+Iteration 9, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter9_cmd0.aig, size = 1016, depth = 19
+Iteration 9, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter9_cmd1.aig, size = 1016, depth = 19
+Iteration 9, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter9_cmd2.aig, size = 1016, depth = 19
+Iteration 9, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter9_cmd3.aig, size = 1016, depth = 19
+Iteration 9, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter9_cmd4.aig, size = 1016, depth = 19
+Iteration 9, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter9_cmd5.aig, size = 1016, depth = 19
+Iteration 9, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter9_cmd6.aig, size = 1016, depth = 19
+Iteration 9, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter9_cmd7.aig, size = 1015, depth = 19
+Iteration 9, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter9_cmd8.aig, size = 1015, depth = 19
+Iteration 9, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter9_cmd9.aig, size = 1015, depth = 19
+Iteration 9, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter9_cmd10.aig, size = 1015, depth = 19
+Iteration 9, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter9_cmd11.aig, size = 1015, depth = 19
+Iteration 9, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter9_cmd12.aig, size = 1015, depth = 18
+Iteration 9, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter9_cmd13.aig, size = 1015, depth = 18
+Iteration 9, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter9_cmd14.aig, size = 1015, depth = 19
+Iteration 9, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter9_cmd15.aig, size = 1015, depth = 19
+Iteration 9, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter9_cmd16.aig, size = 1015, depth = 20
+Iteration 9, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter9_cmd17.aig, size = 1015, depth = 19
+Iteration 10, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter10_cmd0.aig, size = 1015, depth = 19
+Iteration 10, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter10_cmd1.aig, size = 1015, depth = 19
+Iteration 10, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter10_cmd2.aig, size = 1015, depth = 19
+Iteration 10, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter10_cmd3.aig, size = 1015, depth = 19
+Iteration 10, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter10_cmd4.aig, size = 1015, depth = 19
+Iteration 10, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter10_cmd5.aig, size = 1015, depth = 19
+Iteration 10, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter10_cmd6.aig, size = 1015, depth = 19
+Iteration 10, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter10_cmd7.aig, size = 1015, depth = 19
+Iteration 10, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter10_cmd8.aig, size = 1015, depth = 19
+Iteration 10, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter10_cmd9.aig, size = 1015, depth = 19
+Iteration 10, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter10_cmd10.aig, size = 1015, depth = 19
+Iteration 10, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter10_cmd11.aig, size = 1015, depth = 19
+Iteration 10, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter10_cmd12.aig, size = 1015, depth = 18
+Iteration 10, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter10_cmd13.aig, size = 1015, depth = 18
+Iteration 10, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter10_cmd14.aig, size = 1015, depth = 19
+Iteration 10, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter10_cmd15.aig, size = 1015, depth = 19
+Iteration 10, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter10_cmd16.aig, size = 1015, depth = 20
+Iteration 10, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter10_cmd17.aig, size = 1015, depth = 19
+Iteration 11, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter11_cmd0.aig, size = 1015, depth = 19
+Iteration 11, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter11_cmd1.aig, size = 1015, depth = 19
+Iteration 11, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter11_cmd2.aig, size = 1015, depth = 19
+Iteration 11, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter11_cmd3.aig, size = 1015, depth = 19
+Iteration 11, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter11_cmd4.aig, size = 1015, depth = 19
+Iteration 11, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter11_cmd5.aig, size = 1015, depth = 19
+Iteration 11, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter11_cmd6.aig, size = 1015, depth = 19
+Iteration 11, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter11_cmd7.aig, size = 1015, depth = 19
+Iteration 11, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter11_cmd8.aig, size = 1015, depth = 19
+Iteration 11, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter11_cmd9.aig, size = 1015, depth = 19
+Iteration 11, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter11_cmd10.aig, size = 1015, depth = 19
+Iteration 11, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter11_cmd11.aig, size = 1015, depth = 19
+Iteration 11, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter11_cmd12.aig, size = 1015, depth = 18
+Iteration 11, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter11_cmd13.aig, size = 1015, depth = 18
+Iteration 11, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter11_cmd14.aig, size = 1015, depth = 19
+Iteration 11, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter11_cmd15.aig, size = 1015, depth = 19
+Iteration 11, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter11_cmd16.aig, size = 1015, depth = 20
+Iteration 11, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter11_cmd17.aig, size = 1015, depth = 19
+Iteration 12, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter12_cmd0.aig, size = 1015, depth = 19
+Iteration 12, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter12_cmd1.aig, size = 1015, depth = 19
+Iteration 12, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter12_cmd2.aig, size = 1015, depth = 19
+Iteration 12, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter12_cmd3.aig, size = 1015, depth = 19
+Iteration 12, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter12_cmd4.aig, size = 1015, depth = 19
+Iteration 12, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter12_cmd5.aig, size = 1015, depth = 19
+Iteration 12, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter12_cmd6.aig, size = 1015, depth = 19
+Iteration 12, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter12_cmd7.aig, size = 1015, depth = 19
+Iteration 12, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter12_cmd8.aig, size = 1015, depth = 19
+Iteration 12, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter12_cmd9.aig, size = 1015, depth = 19
+Iteration 12, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter12_cmd10.aig, size = 1015, depth = 19
+Iteration 12, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter12_cmd11.aig, size = 1015, depth = 19
+Iteration 12, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter12_cmd12.aig, size = 1015, depth = 18
+Iteration 12, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter12_cmd13.aig, size = 1015, depth = 18
+Iteration 12, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter12_cmd14.aig, size = 1015, depth = 19
+Iteration 12, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter12_cmd15.aig, size = 1015, depth = 19
+Iteration 12, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter12_cmd16.aig, size = 1015, depth = 20
+Iteration 12, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter12_cmd17.aig, size = 1015, depth = 19
+Iteration 13, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter13_cmd0.aig, size = 1015, depth = 19
+Iteration 13, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter13_cmd1.aig, size = 1015, depth = 19
+Iteration 13, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter13_cmd2.aig, size = 1015, depth = 19
+Iteration 13, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter13_cmd3.aig, size = 1015, depth = 19
+Iteration 13, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter13_cmd4.aig, size = 1015, depth = 19
+Iteration 13, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter13_cmd5.aig, size = 1015, depth = 19
+Iteration 13, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter13_cmd6.aig, size = 1015, depth = 19
+Iteration 13, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter13_cmd7.aig, size = 1015, depth = 19
+Iteration 13, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter13_cmd8.aig, size = 1015, depth = 19
+Iteration 13, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter13_cmd9.aig, size = 1015, depth = 19
+Iteration 13, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter13_cmd10.aig, size = 1015, depth = 19
+Iteration 13, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter13_cmd11.aig, size = 1015, depth = 19
+Iteration 13, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter13_cmd12.aig, size = 1015, depth = 18
+Iteration 13, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter13_cmd13.aig, size = 1015, depth = 18
+Iteration 13, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter13_cmd14.aig, size = 1015, depth = 19
+Iteration 13, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter13_cmd15.aig, size = 1015, depth = 19
+Iteration 13, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter13_cmd16.aig, size = 1015, depth = 20
+Iteration 13, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter13_cmd17.aig, size = 1015, depth = 19
+Iteration 14, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter14_cmd0.aig, size = 1015, depth = 19
+Iteration 14, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter14_cmd1.aig, size = 1015, depth = 19
+Iteration 14, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter14_cmd2.aig, size = 1015, depth = 19
+Iteration 14, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter14_cmd3.aig, size = 1015, depth = 19
+Iteration 14, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter14_cmd4.aig, size = 1015, depth = 19
+Iteration 14, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter14_cmd5.aig, size = 1015, depth = 19
+Iteration 14, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter14_cmd6.aig, size = 1015, depth = 19
+Iteration 14, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter14_cmd7.aig, size = 1015, depth = 19
+Iteration 14, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter14_cmd8.aig, size = 1015, depth = 19
+Iteration 14, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter14_cmd9.aig, size = 1015, depth = 19
+Iteration 14, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter14_cmd10.aig, size = 1015, depth = 19
+Iteration 14, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter14_cmd11.aig, size = 1015, depth = 19
+Iteration 14, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter14_cmd12.aig, size = 1015, depth = 18
+Iteration 14, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter14_cmd13.aig, size = 1015, depth = 18
+Iteration 14, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter14_cmd14.aig, size = 1015, depth = 19
+Iteration 14, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter14_cmd15.aig, size = 1015, depth = 19
+Iteration 14, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter14_cmd16.aig, size = 1015, depth = 20
+Iteration 14, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter14_cmd17.aig, size = 1015, depth = 19
+Iteration 15, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter15_cmd0.aig, size = 1015, depth = 19
+Iteration 15, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter15_cmd1.aig, size = 1015, depth = 19
+Iteration 15, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter15_cmd2.aig, size = 1015, depth = 19
+Iteration 15, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter15_cmd3.aig, size = 1015, depth = 19
+Iteration 15, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter15_cmd4.aig, size = 1015, depth = 19
+Iteration 15, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter15_cmd5.aig, size = 1015, depth = 19
+Iteration 15, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter15_cmd6.aig, size = 1015, depth = 19
+Iteration 15, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter15_cmd7.aig, size = 1015, depth = 19
+Iteration 15, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter15_cmd8.aig, size = 1015, depth = 19
+Iteration 15, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter15_cmd9.aig, size = 1015, depth = 19
+Iteration 15, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter15_cmd10.aig, size = 1015, depth = 19
+Iteration 15, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter15_cmd11.aig, size = 1015, depth = 19
+Iteration 15, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter15_cmd12.aig, size = 1015, depth = 18
+Iteration 15, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter15_cmd13.aig, size = 1015, depth = 18
+Iteration 15, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter15_cmd14.aig, size = 1015, depth = 19
+Iteration 15, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter15_cmd15.aig, size = 1015, depth = 19
+Iteration 15, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter15_cmd16.aig, size = 1015, depth = 20
+Iteration 15, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter15_cmd17.aig, size = 1015, depth = 19
+Iteration 16, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter16_cmd0.aig, size = 1015, depth = 19
+Iteration 16, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter16_cmd1.aig, size = 1015, depth = 19
+Iteration 16, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter16_cmd2.aig, size = 1015, depth = 19
+Iteration 16, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter16_cmd3.aig, size = 1015, depth = 19
+Iteration 16, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter16_cmd4.aig, size = 1015, depth = 19
+Iteration 16, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter16_cmd5.aig, size = 1015, depth = 19
+Iteration 16, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter16_cmd6.aig, size = 1015, depth = 19
+Iteration 16, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter16_cmd7.aig, size = 1015, depth = 19
+Iteration 16, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter16_cmd8.aig, size = 1015, depth = 19
+Iteration 16, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter16_cmd9.aig, size = 1015, depth = 19
+Iteration 16, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter16_cmd10.aig, size = 1015, depth = 19
+Iteration 16, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter16_cmd11.aig, size = 1015, depth = 19
+Iteration 16, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter16_cmd12.aig, size = 1015, depth = 18
+Iteration 16, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter16_cmd13.aig, size = 1015, depth = 18
+Iteration 16, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter16_cmd14.aig, size = 1015, depth = 19
+Iteration 16, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter16_cmd15.aig, size = 1015, depth = 19
+Iteration 16, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter16_cmd16.aig, size = 1015, depth = 20
+Iteration 16, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter16_cmd17.aig, size = 1015, depth = 19
+Iteration 17, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter17_cmd0.aig, size = 1015, depth = 19
+Iteration 17, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter17_cmd1.aig, size = 1015, depth = 19
+Iteration 17, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter17_cmd2.aig, size = 1015, depth = 19
+Iteration 17, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter17_cmd3.aig, size = 1015, depth = 19
+Iteration 17, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter17_cmd4.aig, size = 1015, depth = 19
+Iteration 17, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter17_cmd5.aig, size = 1015, depth = 19
+Iteration 17, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter17_cmd6.aig, size = 1015, depth = 19
+Iteration 17, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter17_cmd7.aig, size = 1015, depth = 19
+Iteration 17, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter17_cmd8.aig, size = 1015, depth = 19
+Iteration 17, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter17_cmd9.aig, size = 1015, depth = 19
+Iteration 17, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter17_cmd10.aig, size = 1015, depth = 19
+Iteration 17, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter17_cmd11.aig, size = 1015, depth = 19
+Iteration 17, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter17_cmd12.aig, size = 1015, depth = 18
+Iteration 17, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter17_cmd13.aig, size = 1015, depth = 18
+Iteration 17, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter17_cmd14.aig, size = 1015, depth = 19
+Iteration 17, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter17_cmd15.aig, size = 1015, depth = 19
+Iteration 17, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter17_cmd16.aig, size = 1015, depth = 20
+Iteration 17, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter17_cmd17.aig, size = 1015, depth = 19
+Iteration 18, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter18_cmd0.aig, size = 1015, depth = 19
+Iteration 18, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter18_cmd1.aig, size = 1015, depth = 19
+Iteration 18, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter18_cmd2.aig, size = 1015, depth = 19
+Iteration 18, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter18_cmd3.aig, size = 1015, depth = 19
+Iteration 18, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter18_cmd4.aig, size = 1015, depth = 19
+Iteration 18, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter18_cmd5.aig, size = 1015, depth = 19
+Iteration 18, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter18_cmd6.aig, size = 1015, depth = 19
+Iteration 18, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter18_cmd7.aig, size = 1015, depth = 19
+Iteration 18, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter18_cmd8.aig, size = 1015, depth = 19
+Iteration 18, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter18_cmd9.aig, size = 1015, depth = 19
+Iteration 18, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter18_cmd10.aig, size = 1015, depth = 19
+Iteration 18, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter18_cmd11.aig, size = 1015, depth = 19
+Iteration 18, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter18_cmd12.aig, size = 1015, depth = 18
+Iteration 18, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter18_cmd13.aig, size = 1015, depth = 18
+Iteration 18, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter18_cmd14.aig, size = 1015, depth = 19
+Iteration 18, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter18_cmd15.aig, size = 1015, depth = 19
+Iteration 18, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter18_cmd16.aig, size = 1015, depth = 20
+Iteration 18, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter18_cmd17.aig, size = 1015, depth = 19
+Iteration 19, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter19_cmd0.aig, size = 1015, depth = 19
+Iteration 19, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter19_cmd1.aig, size = 1015, depth = 19
+Iteration 19, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter19_cmd2.aig, size = 1015, depth = 19
+Iteration 19, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter19_cmd3.aig, size = 1015, depth = 19
+Iteration 19, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter19_cmd4.aig, size = 1015, depth = 19
+Iteration 19, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter19_cmd5.aig, size = 1015, depth = 19
+Iteration 19, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter19_cmd6.aig, size = 1015, depth = 19
+Iteration 19, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter19_cmd7.aig, size = 1015, depth = 19
+Iteration 19, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter19_cmd8.aig, size = 1015, depth = 19
+Iteration 19, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//i2c_iter19_cmd9.aig, size = 1015, depth = 19
+Iteration 19, Command 10: rwz -l, fileName = ./result/test0408-1000//i2c_iter19_cmd10.aig, size = 1015, depth = 19
+Iteration 19, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter19_cmd11.aig, size = 1015, depth = 19
+Iteration 19, Command 12: b -l, fileName = ./result/test0408-1000//i2c_iter19_cmd12.aig, size = 1015, depth = 18
+Iteration 19, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//i2c_iter19_cmd13.aig, size = 1015, depth = 18
+Iteration 19, Command 14: rfz -l, fileName = ./result/test0408-1000//i2c_iter19_cmd14.aig, size = 1015, depth = 19
+Iteration 19, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter19_cmd15.aig, size = 1015, depth = 19
+Iteration 19, Command 16: rwz -l, fileName = ./result/test0408-1000//i2c_iter19_cmd16.aig, size = 1015, depth = 20
+Iteration 19, Command 17: b -l, fileName = ./result/test0408-1000//i2c_iter19_cmd17.aig, size = 1015, depth = 19
+Iteration 20, Command 0: b -l, fileName = ./result/test0408-1000//i2c_iter20_cmd0.aig, size = 1015, depth = 19
+Iteration 20, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//i2c_iter20_cmd1.aig, size = 1015, depth = 19
+Iteration 20, Command 2: rw -l, fileName = ./result/test0408-1000//i2c_iter20_cmd2.aig, size = 1015, depth = 19
+Iteration 20, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter20_cmd3.aig, size = 1015, depth = 19
+Iteration 20, Command 4: rf -l, fileName = ./result/test0408-1000//i2c_iter20_cmd4.aig, size = 1015, depth = 19
+Iteration 20, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//i2c_iter20_cmd5.aig, size = 1015, depth = 19
+Iteration 20, Command 6: b -l, fileName = ./result/test0408-1000//i2c_iter20_cmd6.aig, size = 1015, depth = 19
+Iteration 20, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//i2c_iter20_cmd7.aig, size = 1015, depth = 19
+Iteration 20, Command 8: rw -l, fileName = ./result/test0408-1000//i2c_iter20_cmd8.aig, size = 1015, depth = 19
+Converged at iteration 20, command 8
+Total time = 1356258 ms
+Output AIG time = 179409 ms
+Time w/o output AIG = 1176849 ms

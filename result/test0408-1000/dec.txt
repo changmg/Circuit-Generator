@@ -1,0 +1,205 @@
+Network name: dec
+Iteration 0, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter0_cmd0.aig, size = 304, depth = 3
+Iteration 0, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter0_cmd1.aig, size = 304, depth = 3
+Iteration 0, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter0_cmd2.aig, size = 304, depth = 3
+Iteration 0, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter0_cmd3.aig, size = 304, depth = 3
+Iteration 0, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter0_cmd4.aig, size = 304, depth = 3
+Iteration 0, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter0_cmd5.aig, size = 304, depth = 3
+Iteration 0, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter0_cmd6.aig, size = 304, depth = 3
+Iteration 0, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter0_cmd7.aig, size = 304, depth = 3
+Iteration 0, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter0_cmd8.aig, size = 304, depth = 3
+Iteration 0, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter0_cmd9.aig, size = 304, depth = 3
+Iteration 0, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter0_cmd10.aig, size = 304, depth = 3
+Iteration 0, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter0_cmd11.aig, size = 304, depth = 3
+Iteration 0, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter0_cmd12.aig, size = 304, depth = 3
+Iteration 0, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter0_cmd13.aig, size = 304, depth = 3
+Iteration 0, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter0_cmd14.aig, size = 304, depth = 3
+Iteration 0, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter0_cmd15.aig, size = 304, depth = 3
+Iteration 0, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter0_cmd16.aig, size = 304, depth = 3
+Iteration 0, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter0_cmd17.aig, size = 304, depth = 3
+Iteration 1, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter1_cmd0.aig, size = 304, depth = 3
+Iteration 1, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter1_cmd1.aig, size = 304, depth = 3
+Iteration 1, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter1_cmd2.aig, size = 304, depth = 3
+Iteration 1, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter1_cmd3.aig, size = 304, depth = 3
+Iteration 1, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter1_cmd4.aig, size = 304, depth = 3
+Iteration 1, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter1_cmd5.aig, size = 304, depth = 3
+Iteration 1, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter1_cmd6.aig, size = 304, depth = 3
+Iteration 1, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter1_cmd7.aig, size = 304, depth = 3
+Iteration 1, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter1_cmd8.aig, size = 304, depth = 3
+Iteration 1, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter1_cmd9.aig, size = 304, depth = 3
+Iteration 1, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter1_cmd10.aig, size = 304, depth = 3
+Iteration 1, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter1_cmd11.aig, size = 304, depth = 3
+Iteration 1, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter1_cmd12.aig, size = 304, depth = 3
+Iteration 1, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter1_cmd13.aig, size = 304, depth = 3
+Iteration 1, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter1_cmd14.aig, size = 304, depth = 3
+Iteration 1, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter1_cmd15.aig, size = 304, depth = 3
+Iteration 1, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter1_cmd16.aig, size = 304, depth = 3
+Iteration 1, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter1_cmd17.aig, size = 304, depth = 3
+Iteration 2, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter2_cmd0.aig, size = 304, depth = 3
+Iteration 2, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter2_cmd1.aig, size = 304, depth = 3
+Iteration 2, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter2_cmd2.aig, size = 304, depth = 3
+Iteration 2, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter2_cmd3.aig, size = 304, depth = 3
+Iteration 2, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter2_cmd4.aig, size = 304, depth = 3
+Iteration 2, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter2_cmd5.aig, size = 304, depth = 3
+Iteration 2, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter2_cmd6.aig, size = 304, depth = 3
+Iteration 2, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter2_cmd7.aig, size = 304, depth = 3
+Iteration 2, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter2_cmd8.aig, size = 304, depth = 3
+Iteration 2, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter2_cmd9.aig, size = 304, depth = 3
+Iteration 2, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter2_cmd10.aig, size = 304, depth = 3
+Iteration 2, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter2_cmd11.aig, size = 304, depth = 3
+Iteration 2, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter2_cmd12.aig, size = 304, depth = 3
+Iteration 2, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter2_cmd13.aig, size = 304, depth = 3
+Iteration 2, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter2_cmd14.aig, size = 304, depth = 3
+Iteration 2, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter2_cmd15.aig, size = 304, depth = 3
+Iteration 2, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter2_cmd16.aig, size = 304, depth = 3
+Iteration 2, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter2_cmd17.aig, size = 304, depth = 3
+Iteration 3, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter3_cmd0.aig, size = 304, depth = 3
+Iteration 3, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter3_cmd1.aig, size = 304, depth = 3
+Iteration 3, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter3_cmd2.aig, size = 304, depth = 3
+Iteration 3, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter3_cmd3.aig, size = 304, depth = 3
+Iteration 3, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter3_cmd4.aig, size = 304, depth = 3
+Iteration 3, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter3_cmd5.aig, size = 304, depth = 3
+Iteration 3, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter3_cmd6.aig, size = 304, depth = 3
+Iteration 3, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter3_cmd7.aig, size = 304, depth = 3
+Iteration 3, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter3_cmd8.aig, size = 304, depth = 3
+Iteration 3, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter3_cmd9.aig, size = 304, depth = 3
+Iteration 3, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter3_cmd10.aig, size = 304, depth = 3
+Iteration 3, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter3_cmd11.aig, size = 304, depth = 3
+Iteration 3, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter3_cmd12.aig, size = 304, depth = 3
+Iteration 3, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter3_cmd13.aig, size = 304, depth = 3
+Iteration 3, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter3_cmd14.aig, size = 304, depth = 3
+Iteration 3, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter3_cmd15.aig, size = 304, depth = 3
+Iteration 3, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter3_cmd16.aig, size = 304, depth = 3
+Iteration 3, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter3_cmd17.aig, size = 304, depth = 3
+Iteration 4, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter4_cmd0.aig, size = 304, depth = 3
+Iteration 4, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter4_cmd1.aig, size = 304, depth = 3
+Iteration 4, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter4_cmd2.aig, size = 304, depth = 3
+Iteration 4, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter4_cmd3.aig, size = 304, depth = 3
+Iteration 4, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter4_cmd4.aig, size = 304, depth = 3
+Iteration 4, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter4_cmd5.aig, size = 304, depth = 3
+Iteration 4, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter4_cmd6.aig, size = 304, depth = 3
+Iteration 4, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter4_cmd7.aig, size = 304, depth = 3
+Iteration 4, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter4_cmd8.aig, size = 304, depth = 3
+Iteration 4, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter4_cmd9.aig, size = 304, depth = 3
+Iteration 4, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter4_cmd10.aig, size = 304, depth = 3
+Iteration 4, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter4_cmd11.aig, size = 304, depth = 3
+Iteration 4, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter4_cmd12.aig, size = 304, depth = 3
+Iteration 4, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter4_cmd13.aig, size = 304, depth = 3
+Iteration 4, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter4_cmd14.aig, size = 304, depth = 3
+Iteration 4, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter4_cmd15.aig, size = 304, depth = 3
+Iteration 4, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter4_cmd16.aig, size = 304, depth = 3
+Iteration 4, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter4_cmd17.aig, size = 304, depth = 3
+Iteration 5, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter5_cmd0.aig, size = 304, depth = 3
+Iteration 5, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter5_cmd1.aig, size = 304, depth = 3
+Iteration 5, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter5_cmd2.aig, size = 304, depth = 3
+Iteration 5, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter5_cmd3.aig, size = 304, depth = 3
+Iteration 5, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter5_cmd4.aig, size = 304, depth = 3
+Iteration 5, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter5_cmd5.aig, size = 304, depth = 3
+Iteration 5, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter5_cmd6.aig, size = 304, depth = 3
+Iteration 5, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter5_cmd7.aig, size = 304, depth = 3
+Iteration 5, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter5_cmd8.aig, size = 304, depth = 3
+Iteration 5, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter5_cmd9.aig, size = 304, depth = 3
+Iteration 5, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter5_cmd10.aig, size = 304, depth = 3
+Iteration 5, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter5_cmd11.aig, size = 304, depth = 3
+Iteration 5, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter5_cmd12.aig, size = 304, depth = 3
+Iteration 5, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter5_cmd13.aig, size = 304, depth = 3
+Iteration 5, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter5_cmd14.aig, size = 304, depth = 3
+Iteration 5, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter5_cmd15.aig, size = 304, depth = 3
+Iteration 5, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter5_cmd16.aig, size = 304, depth = 3
+Iteration 5, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter5_cmd17.aig, size = 304, depth = 3
+Iteration 6, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter6_cmd0.aig, size = 304, depth = 3
+Iteration 6, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter6_cmd1.aig, size = 304, depth = 3
+Iteration 6, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter6_cmd2.aig, size = 304, depth = 3
+Iteration 6, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter6_cmd3.aig, size = 304, depth = 3
+Iteration 6, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter6_cmd4.aig, size = 304, depth = 3
+Iteration 6, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter6_cmd5.aig, size = 304, depth = 3
+Iteration 6, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter6_cmd6.aig, size = 304, depth = 3
+Iteration 6, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter6_cmd7.aig, size = 304, depth = 3
+Iteration 6, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter6_cmd8.aig, size = 304, depth = 3
+Iteration 6, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter6_cmd9.aig, size = 304, depth = 3
+Iteration 6, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter6_cmd10.aig, size = 304, depth = 3
+Iteration 6, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter6_cmd11.aig, size = 304, depth = 3
+Iteration 6, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter6_cmd12.aig, size = 304, depth = 3
+Iteration 6, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter6_cmd13.aig, size = 304, depth = 3
+Iteration 6, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter6_cmd14.aig, size = 304, depth = 3
+Iteration 6, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter6_cmd15.aig, size = 304, depth = 3
+Iteration 6, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter6_cmd16.aig, size = 304, depth = 3
+Iteration 6, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter6_cmd17.aig, size = 304, depth = 3
+Iteration 7, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter7_cmd0.aig, size = 304, depth = 3
+Iteration 7, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter7_cmd1.aig, size = 304, depth = 3
+Iteration 7, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter7_cmd2.aig, size = 304, depth = 3
+Iteration 7, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter7_cmd3.aig, size = 304, depth = 3
+Iteration 7, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter7_cmd4.aig, size = 304, depth = 3
+Iteration 7, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter7_cmd5.aig, size = 304, depth = 3
+Iteration 7, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter7_cmd6.aig, size = 304, depth = 3
+Iteration 7, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter7_cmd7.aig, size = 304, depth = 3
+Iteration 7, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter7_cmd8.aig, size = 304, depth = 3
+Iteration 7, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter7_cmd9.aig, size = 304, depth = 3
+Iteration 7, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter7_cmd10.aig, size = 304, depth = 3
+Iteration 7, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter7_cmd11.aig, size = 304, depth = 3
+Iteration 7, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter7_cmd12.aig, size = 304, depth = 3
+Iteration 7, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter7_cmd13.aig, size = 304, depth = 3
+Iteration 7, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter7_cmd14.aig, size = 304, depth = 3
+Iteration 7, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter7_cmd15.aig, size = 304, depth = 3
+Iteration 7, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter7_cmd16.aig, size = 304, depth = 3
+Iteration 7, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter7_cmd17.aig, size = 304, depth = 3
+Iteration 8, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter8_cmd0.aig, size = 304, depth = 3
+Iteration 8, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter8_cmd1.aig, size = 304, depth = 3
+Iteration 8, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter8_cmd2.aig, size = 304, depth = 3
+Iteration 8, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter8_cmd3.aig, size = 304, depth = 3
+Iteration 8, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter8_cmd4.aig, size = 304, depth = 3
+Iteration 8, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter8_cmd5.aig, size = 304, depth = 3
+Iteration 8, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter8_cmd6.aig, size = 304, depth = 3
+Iteration 8, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter8_cmd7.aig, size = 304, depth = 3
+Iteration 8, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter8_cmd8.aig, size = 304, depth = 3
+Iteration 8, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter8_cmd9.aig, size = 304, depth = 3
+Iteration 8, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter8_cmd10.aig, size = 304, depth = 3
+Iteration 8, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter8_cmd11.aig, size = 304, depth = 3
+Iteration 8, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter8_cmd12.aig, size = 304, depth = 3
+Iteration 8, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter8_cmd13.aig, size = 304, depth = 3
+Iteration 8, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter8_cmd14.aig, size = 304, depth = 3
+Iteration 8, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter8_cmd15.aig, size = 304, depth = 3
+Iteration 8, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter8_cmd16.aig, size = 304, depth = 3
+Iteration 8, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter8_cmd17.aig, size = 304, depth = 3
+Iteration 9, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter9_cmd0.aig, size = 304, depth = 3
+Iteration 9, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter9_cmd1.aig, size = 304, depth = 3
+Iteration 9, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter9_cmd2.aig, size = 304, depth = 3
+Iteration 9, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter9_cmd3.aig, size = 304, depth = 3
+Iteration 9, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter9_cmd4.aig, size = 304, depth = 3
+Iteration 9, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter9_cmd5.aig, size = 304, depth = 3
+Iteration 9, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter9_cmd6.aig, size = 304, depth = 3
+Iteration 9, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter9_cmd7.aig, size = 304, depth = 3
+Iteration 9, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter9_cmd8.aig, size = 304, depth = 3
+Iteration 9, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter9_cmd9.aig, size = 304, depth = 3
+Iteration 9, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter9_cmd10.aig, size = 304, depth = 3
+Iteration 9, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter9_cmd11.aig, size = 304, depth = 3
+Iteration 9, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter9_cmd12.aig, size = 304, depth = 3
+Iteration 9, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter9_cmd13.aig, size = 304, depth = 3
+Iteration 9, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter9_cmd14.aig, size = 304, depth = 3
+Iteration 9, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter9_cmd15.aig, size = 304, depth = 3
+Iteration 9, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter9_cmd16.aig, size = 304, depth = 3
+Iteration 9, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter9_cmd17.aig, size = 304, depth = 3
+Iteration 10, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter10_cmd0.aig, size = 304, depth = 3
+Iteration 10, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter10_cmd1.aig, size = 304, depth = 3
+Iteration 10, Command 2: rw -l, fileName = ./result/test0408-1000//dec_iter10_cmd2.aig, size = 304, depth = 3
+Iteration 10, Command 3: rs -K 6 -N 2 -l, fileName = ./result/test0408-1000//dec_iter10_cmd3.aig, size = 304, depth = 3
+Iteration 10, Command 4: rf -l, fileName = ./result/test0408-1000//dec_iter10_cmd4.aig, size = 304, depth = 3
+Iteration 10, Command 5: rs -K 8 -l, fileName = ./result/test0408-1000//dec_iter10_cmd5.aig, size = 304, depth = 3
+Iteration 10, Command 6: b -l, fileName = ./result/test0408-1000//dec_iter10_cmd6.aig, size = 304, depth = 3
+Iteration 10, Command 7: rs -K 8 -N 2 -l, fileName = ./result/test0408-1000//dec_iter10_cmd7.aig, size = 304, depth = 3
+Iteration 10, Command 8: rw -l, fileName = ./result/test0408-1000//dec_iter10_cmd8.aig, size = 304, depth = 3
+Iteration 10, Command 9: rs -K 10 -l, fileName = ./result/test0408-1000//dec_iter10_cmd9.aig, size = 304, depth = 3
+Iteration 10, Command 10: rwz -l, fileName = ./result/test0408-1000//dec_iter10_cmd10.aig, size = 304, depth = 3
+Iteration 10, Command 11: rs -K 10 -N 2 -l, fileName = ./result/test0408-1000//dec_iter10_cmd11.aig, size = 304, depth = 3
+Iteration 10, Command 12: b -l, fileName = ./result/test0408-1000//dec_iter10_cmd12.aig, size = 304, depth = 3
+Iteration 10, Command 13: rs -K 12 -l, fileName = ./result/test0408-1000//dec_iter10_cmd13.aig, size = 304, depth = 3
+Iteration 10, Command 14: rfz -l, fileName = ./result/test0408-1000//dec_iter10_cmd14.aig, size = 304, depth = 3
+Iteration 10, Command 15: rs -K 12 -N 2 -l, fileName = ./result/test0408-1000//dec_iter10_cmd15.aig, size = 304, depth = 3
+Iteration 10, Command 16: rwz -l, fileName = ./result/test0408-1000//dec_iter10_cmd16.aig, size = 304, depth = 3
+Iteration 10, Command 17: b -l, fileName = ./result/test0408-1000//dec_iter10_cmd17.aig, size = 304, depth = 3
+Iteration 11, Command 0: b -l, fileName = ./result/test0408-1000//dec_iter11_cmd0.aig, size = 304, depth = 3
+Iteration 11, Command 1: rs -K 6 -l, fileName = ./result/test0408-1000//dec_iter11_cmd1.aig, size = 304, depth = 3
+Converged at iteration 11, command 1
+Total time = 363597 ms
+Output AIG time = 94574 ms
+Time w/o output AIG = 269023 ms

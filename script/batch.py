@@ -9,6 +9,6 @@ if not os.path.exists(output_path):
 
 for benchmark in benchmarks:
     # comm = './circ_gen.out -i input/benchmark/adder.aig -o result/test0408-1000/ > result/test0408-1000/adder.log'
-    comm = './circ_gen.out -i ' + benchmark_folder + benchmark + '.aig -o ' + output_path + ' > ' + output_path + benchmark + '.log'
+    comm = './circ_gen.out -i ' + benchmark_folder + benchmark + '.aig -o ' + output_path + ' > ' + output_path + benchmark + '.txt'
     print(comm)
     os.system(comm)
