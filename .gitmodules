@@ -2,3 +2,6 @@
 	path = abc
 	url = git@github.com:changmg/abc.git
 	branch = abc-20231002
+[submodule "genmul"]
+	path = genmul
+	url = git@github.com:amahzoon/genmul.git
